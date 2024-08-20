@@ -1,0 +1,34 @@
+body{ 
+font-family:'arial',sans-serif;
+ margin:50px; 
+padding:50px; 
+font-display:flex; 
+background-color: rgb(15, 13, 17); 
+text-align: center;
+ color: aliceblue;
+ justify-content: center;
+}
+
+.a
+{
+  font-family:'arial',sans-serif; 
+margin:50px; 
+padding:50px; 
+font-display:flex; 
+background-color: olive; 
+text-align: center;
+ color: aliceblue;
+justify-content: center;
+}
+
+.b
+{
+ font-family:'arial',sans-serif;
+ margin:50px; 
+padding:50px;
+ font-display:flex;
+ background-color:rgb(139, 134, 136); 
+text-align: center; 
+color: aliceblue;
+ justify-content: center;
+}
